@@ -1,2 +1,5 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
-Cristina_Persona_1.
+Cristina_Persona_1."Paulina_Persona 2.
+El repositorio remoto actualizado se puede encontrar en las url's
+https://github.com/CristinaCruzD_persona1/tarea_colaborativo
+https://github.com/psc9718_persona2/tarea_colaborativo"
